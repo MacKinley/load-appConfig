@@ -1,0 +1,24 @@
+{
+  "name": "load-appconfig",
+  "version": "0.1.0",
+  "description": "A too simple config loader.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MacKinley/load-appconfig.git"
+  },
+  "keywords": [
+    "configuration",
+    "file",
+    "loader"
+  ],
+  "author": "MacKinley Trudeau <mackinleytrudeau@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MacKinley/load-appconfig/issues"
+  },
+  "homepage": "https://github.com/MacKinley/load-appconfig"
+}
